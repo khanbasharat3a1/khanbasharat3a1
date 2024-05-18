@@ -22,7 +22,7 @@
 🎨 **Hobbies:** Learning new skills, Music, Cricket  
 💬 **Ask me about:** Blogging, SEO  
 🤪 **Fun fact:** I can write anything after "fun fact" and you will read it.
-🌐 **My site:** 🌐 **My site:** You can learn about the latest in technology and insightful tech articles on my site 🔗 [Tech Insider Plus](https://www.techinsiderplus.com).
+🌐 **My site:** You can learn about the latest in technology and insightful tech articles on my site 🔗 [Tech Insider Plus](https://www.techinsiderplus.com).
 
 ---
 
