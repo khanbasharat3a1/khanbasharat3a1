@@ -9,3 +9,20 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
+
+
+
+### Welcome to My GitHub Profile! 👋
+
+🔧 **Skills:** Python | Flask | Data Science | Web Development  
+📚 **Education:** Bachelor of Engineering in Electronics and Communication Engineering  
+💼 **Work Experience:** Data Science Intern | Co-founder of Tech Insider Plus  
+🥇 **Achievements:** Gold Badge Python HackerRank | 13th Institute rank on GeeksforGeeks  
+🌱 **Currently Learning:** Machine Learning | Artificial Intelligence | Web Development 
+🎨 **Hobbies:** Learning new skills, Music, Cricket  
+💬 **Ask me about:** Blogging, SEO  
+🤪 **Fun fact:** I can write anything after "fun fact" and you will read it.
+🌐 **My site:** 🌐 **My site:** You can learn about the latest in technology and insightful tech articles on my site 🔗 [Tech Insider Plus](https://www.techinsiderplus.com).
+
+---
+
