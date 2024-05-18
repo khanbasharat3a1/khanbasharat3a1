@@ -27,3 +27,11 @@
 
 ---
 
+
+
+
+
+
+- [Don't click or you will be logged out from your account](https://youtube.com/logout?continue=https://googleads.g.doubleclick.net/pcs/click?adurl=https://www.youtube.com/watch?v=dQw4w9WgXcQ) <<<---- Don't Click
+
+My [**GitHub**](https://github.com/khanbasharat3a1) profile portrays my journey from writing my first ***Hello world*** program in my college to the first **HTML** page to the first **Calculator App** running on the emulator to the first **Machine Learning** model I trained on my system. It has been a journey of consecutive efforts and I look forward to more *open source* projects now. Apart from [GitHub](https://github.com/khanbasharat3a1), you can find me on [**LinkedIn**](https://www.linkedin.com/in/khanbasharat/) for professional networking. Make pull requests and I will be happy to merge them. Also :star: if you like any :hugs:
