@@ -52,7 +52,7 @@ My [**GitHub**](https://github.com/khanbasharat3a1) profile portrays my journey 
 </a>
 
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khanbasharat3a1&theme=dark&hide_border=false)<br/>
 
 
