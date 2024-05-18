@@ -14,14 +14,12 @@
 
 ### Welcome to My GitHub Profile! 👋
 
-### Welcome to My GitHub Profile! 👋
-
 - **Skills:** Python | Flask | Data Science | Web Development :computer:  
 - **Education:** Bachelor of Engineering in Electronics and Communication Engineering  
 - **Work Experience:** Data Science Intern | Co-founder of Tech Insider Plus :man_technologist:  
 - **Achievements:** Gold Badge Python HackerRank | 13th Institute rank on GeeksforGeeks  
 - **Currently Learning:** Machine Learning | Artificial Intelligence | Web Development :zap:  
-- **Hobbies:** Learning new skills | Music :headphones: | Cricket :cricket_bat_and_ball:  
+- **Hobbies:** Learning new skills | Music :headphones: | Cricket 
 - **Ask me about:** Blogging | SEO :speech_balloon:  
 - **Fun fact:** I can write anything after "fun fact" and you will read it.  
 - **My site:** You can learn about the latest in technology and insightful tech articles on my site 🔗 [Tech Insider Plus](https://www.techinsiderplus.com).
