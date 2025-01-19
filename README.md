@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/khanbasharat3a1)](https://www.facebook.com/khanbasharat3a1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanbasharat/)](https://www.linkedin.com/in/khanbasharat/)
 
-## About Me 💫
+## About Me
 
 Full-stack developer and data science enthusiast with a passion for open source. Currently pursuing BE in Electronics and Communication Engineering.
 
