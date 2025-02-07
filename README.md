@@ -51,7 +51,6 @@ Full-stack developer and data science enthusiast with a passion for open source.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=khanbasharat3a1&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache" alt="Khan Basharat's github stats" />
 </a>
 <a href="https://github.com/khanbasharat3a1/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanbasharat3a1&layout=compact&theme=chartreuse-dark&cache" />
 </a>
 
