@@ -2,19 +2,11 @@
 
 Full-stack developer and AI/ML enthusiast | Electronics & Communication Engineer
 
-## Experience
-Data Science Intern at CES IIT Jammu, SkillVertex, Cadila Pharmaceuticals  
-Co-founder of [Tech Insider Plus](https://www.techinsiderplus.com)
 
 ## Skills
 **Languages:** Python, C, MATLAB, Embedded C  
 **Web:** Flask, Django, FastAPI, HTML, CSS  
 **IoT:** Arduino, Raspberry Pi, ESP32, PLC
-
-## Notable Projects
-- Smart Healthcare Assistant (AI/ML)
-- AI-enabled Temperature Monitoring (PLC + IoT)
-- IoT-based Vehicle for Kids
 
 
 
