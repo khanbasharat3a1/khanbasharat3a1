@@ -66,17 +66,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanbasharat3a1&theme=tokyonight&hide_border=false" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanbasharat3a1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanbasharat3a1&theme=tokyo-night&hide_border=false" />
-</div>
 
 
 ## 🤝 Let's Connect!
@@ -100,11 +89,3 @@ me.say_hi()
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <b>⭐️ From <a href="https://github.com/khanbasharat3a1">Basharat Ahmad Khan</a></b>
-</div>
