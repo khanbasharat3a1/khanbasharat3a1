@@ -86,7 +86,6 @@ me.say_hi()
   <a href="https://www.khanbasharat.com">
     <img src="https://img.shields.io/badge/Read%20My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  .
 </div>
 
 ---
