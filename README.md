@@ -1,5 +1,5 @@
 # Hi there! I'm Basharat Ahmad Khan 👋
-.
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer;SEO+Expert;Web+Developer" alt="Typing SVG" />
 </div>
