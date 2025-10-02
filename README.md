@@ -67,6 +67,8 @@ me.say_hi()
 
 ![khanbasharat3a1 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanbasharat3a1 &theme=tokyonight&hide_border=true)
 
+![khanbasharat3a1 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanbasharat3a1 &theme=tokyonight&hide_border=true)
+
 
 ## 🤝 Let's Connect!
 
